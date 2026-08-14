@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-zoqthf.salamcuanwin.sbs/sitemap.xml
